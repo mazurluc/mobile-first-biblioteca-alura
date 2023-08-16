@@ -8,7 +8,9 @@
 .cabeçalho(
     background-color: ;
 )
-.div-1
+.div-1{
+    display: flex;
+justify-content:space-around;
 
     
 }
