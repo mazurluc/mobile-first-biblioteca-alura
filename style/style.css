@@ -1,9 +1,9 @@
 @import url("../style/header.css");
 :root{
-    --fonte-principal:"Poppins"
-    --branco:#ffffff;
 
-    --cor-de-fundo:#ebecee,
+    --branco:#ffffff;
+    --fonte-principal:"Poppins";
+    --cor-de-fundo:#ebecee;
 }
 body{
     background-color: var(--cor-de-fundo);
