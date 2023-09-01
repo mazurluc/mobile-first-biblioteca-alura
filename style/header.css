@@ -1,5 +1,5 @@
 
-.cabeçalho-menu-hamburguer{
+.cabecalho-menu-hamburguer{
     width:24px;
     height: 24px;
     background-image: url(../imagem/menu.svg.png);
@@ -7,21 +7,21 @@
     background-repeat: no-repeat;
     background-position: center;
 }
-.cabeçalho{
+.cabecalho{
     background-color: var(--branco) ;
     display: flex;
     justify-content: space-between;
 }
 .div-1{
     display: flex;
-justify-content:space-around;
+    align-items: center;
 }
 h1{
     display:none
 }    
 @media screen and (min-width:1024px) {
 h1{
- display: block; 
- font-size: 30px;  
+ font-size: 30px; 
+ display: block;  
 }    
 }

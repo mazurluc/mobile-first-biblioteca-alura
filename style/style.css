@@ -1,9 +1,10 @@
 @import url("../style/header.css");
 :root{
 
+    --cor-de-fundo: #ebecee;
     --branco:#ffffff;
     --fonte-principal:"Poppins";
-    --cor-de-fundo:#ebecee;
+  
 }
 body{
     background-color: var(--cor-de-fundo);
