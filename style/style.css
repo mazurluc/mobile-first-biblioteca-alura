@@ -3,8 +3,9 @@
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
+    --amarelo: #FECD2F;
     --fonte-principal: "poppins"
-}
+
 
 body {
     background-color: var(--cor-de-fundo);
