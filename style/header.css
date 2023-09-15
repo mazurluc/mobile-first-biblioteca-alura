@@ -21,9 +21,12 @@
 h1 {
     display: none;
 }
-
+.div-nenu{
+    display: none;
+}
 @media screen and (min-width:1024px) {
     h1 {
+
         font-size: 30px;
         display: block;
  .lista-menu{
@@ -36,6 +39,7 @@ top:100%,
     .lista-menu-titulo,lista-menu-item{
         
     }
+
 
 
   } 
