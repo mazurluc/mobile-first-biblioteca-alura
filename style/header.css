@@ -37,6 +37,12 @@ top:100%,
   {
     --roxo:#733887,
     .lista-menu-titulo,lista-menu-item{
+     color: var(--amarelo;)  
+    font-weight: 700;
+    .lista-menu-titulo{
+        background: var(--roxo);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
         
     }
 
